@@ -1,0 +1,8 @@
+0 Garlic
+1 Potato
+2 Egg
+3 Onion
+4 Chicken
+5 Pork
+6 Welsh_onion
+7 Been_sprouts
